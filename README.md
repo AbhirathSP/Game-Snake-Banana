@@ -1,2 +1,2 @@
 # Game-Snake-Banana
-snake and Banana Game Using C++ Language 
+Snake and Banana Game Using C++ Language 
